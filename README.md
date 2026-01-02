@@ -1,0 +1,2 @@
+# uLzUhwGJPm
+本系统是一款基于FastAPI的博客平台，采用MySQL存储数据，通过SQLAlchemy进行ORM映射，以及Elasticsearch实现高效搜索。核心功能包括博客文章的发布、管理以及便捷的搜索。前端使用Vue框架，界面采用BootstrapVue搭建，管理界面则由ElementUI设计，为用户提供了一个简洁、直观的交互体验。系统致力于解决个人或企业在内容展示、信息检索方面的需求，提高了博客管理的效率与可扩展性。
